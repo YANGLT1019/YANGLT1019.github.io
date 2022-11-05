@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/11/03/ahsdka/</loc>
+    <loc>https://yanglt1019.github.io/2022/11/04/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/</loc>
+    
+    <lastmod>2022-11-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yanglt1019.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-11-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yanglt1019.github.io/categories/index.html</loc>
+    
+    <lastmod>2022-11-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yanglt1019.github.io/link/index.html</loc>
     
     <lastmod>2022-11-03</lastmod>
     
@@ -11,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/11/03/first/</loc>
+    <loc>https://yanglt1019.github.io/tags/index-1.html</loc>
     
     <lastmod>2022-11-03</lastmod>
     
@@ -20,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/11/03/hello-world/</loc>
+    <loc>https://yanglt1019.github.io/2022/11/03/hello-world/</loc>
     
     <lastmod>2022-11-03</lastmod>
     
@@ -30,8 +57,8 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2022-11-03</lastmod>
+    <loc>https://yanglt1019.github.io/</loc>
+    <lastmod>2022-11-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
